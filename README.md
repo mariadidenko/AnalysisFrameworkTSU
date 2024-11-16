@@ -3,7 +3,7 @@
 This framework processes DAOD PHYSLITE ROOT files, extracts relevant variables, applies predefined cuts, and saves the selected data back into a new ROOT file. The primary goal is to provide an easy-to-use setup for collecting and saving variables, which are commonly used in high-energy physics analysis.
 
   ```bash
-  git clone https://gitlab.cern.ch/mdidenko/analysisframeworktsu.git AnalysisFramework
+  git clone https://github.com/mariadidenko/AnalysisFrameworkTSU.git AnalysisFramework
   ```
 
 ## Framework Structure
